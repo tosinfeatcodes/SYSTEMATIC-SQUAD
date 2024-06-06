@@ -1,4 +1,4 @@
-# SYSTEMATIC-SQUAD
+# CUSTOMER SEGMENTATION FOR AN AUTOMOBILE BIKE COMPANY
 This project was completed by the systematic squad. It can only be used for learning purposes and not to be copied as a personal project. 
 
 Thanks to the team :
